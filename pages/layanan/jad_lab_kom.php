@@ -49,7 +49,7 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                     <tr>
+                                    <tr>
                                         <th scope="row">Senin</th>
                                         <td>08.00</td>
                                         <td>Aplikasi Sistem Micro Processor</td>
@@ -72,6 +72,13 @@
                                     </tr>
                                     <tr>
                                         <th scope="row">Selasa</th>
+                                        <td>07.30</td>
+                                        <td>Aplikasi Komputer</td>
+                                        <td>I Nyoman Susipta, M.T., M.M.</td>
+                                        <td>Psikologi</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"></th>
                                         <td>10.00</td>
                                         <td>Perkenalan Perancangan Web</td>
                                         <td>Aan Jelli Priana, S.Kom., M.Kom.</td>
@@ -91,7 +98,7 @@
                                         <td>Aan Jelli Priana. S.Kom.,M.Kom</td>
                                         <td>Sistem Informasi</td>
                                     </tr>
-                                  <tr>
+                                    <tr>
                                         <th scope="row">Kamis</th>
                                         <td>07.00</td>
                                         <td>Dasar Pemrograman Komputer</td>
@@ -261,7 +268,7 @@
                 </div>
             </div>
 
-          
+
         </div>
     </div>
 </div>
