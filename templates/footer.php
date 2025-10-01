@@ -23,7 +23,7 @@
                 <p class="mb-0">08.00 AM - 11.00 AM</p>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-light mb-4"></i> Visit </h4>
+                <h4 class="text-light mb-4"> Visit </h4>
                 <a href="https://kemdiktisaintek.go.id/" target="_blank">kemdiktisaintek.go.id</a><br>
                 <a href="https://pddikti.kemdiktisaintek.go.id/" target="_blank">pddikti.kemdiktisaintek.go.id</a> <br>
                 <a href="https://lldikti7.kemdikbud.go.id/" target="_blank">LLDikti7.kemdikbud.go.id</a> <br>
